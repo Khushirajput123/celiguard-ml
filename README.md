@@ -215,10 +215,9 @@ docker-compose build backend
 
 ## 👥 Research Team
 
-- Aditya Tiwari
-- Ayush Yadav
-- Harshit Somvanshi
-- Hritik Tiwari
+- Khushi
+- Vagisha Pande
+
 
 ## 📄 License
 
