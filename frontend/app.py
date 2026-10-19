@@ -319,7 +319,7 @@ def main():
     st.markdown("""
     <div style="text-align: center; color: #495057; font-size: 0.85em; margin-top: 20px; padding: 15px; background-color: #f8f9fa; border-radius: 8px;">
         <p style="margin: 0; font-weight: 600;">Made for Research by</p>
-        <p style="margin: 5px 0 0 0;">Aditya Tiwari • Ayush Yadav • Harshit Somvanshi • Hritik Tiwari</p>
+        <p style="margin: 5px 0 0 0;">KHUSHI •VAGISHA PANDE</p>
     </div>
     """, unsafe_allow_html=True)
 
